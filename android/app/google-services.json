@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996478457595",
+    "project_id": "movie-buff-dfea5",
+    "storage_bucket": "movie-buff-dfea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996478457595:android:73e900559ee9e5a1ef025e",
+        "android_client_info": {
+          "package_name": "com.esoft.movie_buff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996478457595-0anvf33i51epaa1v95ojsoualvnt113g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esoft.movie_buff",
+            "certificate_hash": "23b09afa3bbe924802f6c94189b417b75acbd134"
+          }
+        },
+        {
+          "client_id": "996478457595-gpotl7coui22949jhv3nid14ohtbbbr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4SZPBGZcUebeY1_Dz3cYwq41M7q9DezM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996478457595-gpotl7coui22949jhv3nid14ohtbbbr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
